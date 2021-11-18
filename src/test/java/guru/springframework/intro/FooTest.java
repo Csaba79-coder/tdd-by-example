@@ -1,4 +1,4 @@
-package guru.springframework;
+package guru.springframework.intro;
 
 import org.junit.jupiter.api.Test;
 
