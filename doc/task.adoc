@@ -1,0 +1,15 @@
+= Test - TDD
+
+== Checking test coverage:
+
+image::image-2021-11-23-09-40-53-637.png[]
+
+needs to run all of them, and if you want to know the whole project coverage you have to add them all! (add to active suites!)
+
+== Refactor (that makes code better!):
+
+image::image-2021-11-23-09-42-28-206.png[]
+
+make the whole project!
+
+image::image-2021-11-23-09-42-54-337.png[]
